@@ -1,2 +1,9 @@
 # Page-Permission-Checker
-Checks weather you have permission to view a webpage. Take input form a text file, and checks to see if the page returns a 200 or 403
+ This is a quick and easy script I threw together to check weather a user account has permission to access a page. 
+
+# How to use
+Create a list of websites and store it in text.txt. New items should be seperated by a new line. 
+
+Add any cookies you need for authentication to the Cookies section, and any HTML headers you need to he header section.
+
+Run the script and await results. 
